@@ -1,0 +1,26 @@
+body {
+  background-color: bisque;
+}
+
+#button-container {
+  background-color: aliceblue;
+  border-radius: 10%;
+}
+
+#heading {
+  color: darkblue;
+  font-size: xx-large;
+  margin: auto;
+  margin-top: 0%;
+  justify-content: center;
+  width: fit-content;
+}
+
+#container {
+  width: fit-content;
+  margin: auto;
+  justify-content: center;
+  padding: 20px;
+  background-color: aliceblue;
+  border-radius: 10%;
+}
