@@ -1,0 +1,48 @@
+
+.popup {
+  display: none; 
+  position: fixed; 
+  z-index: 1; 
+  padding: 50px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%; 
+  overflow: auto; 
+  background-color: rgba(215, 45, 45, 0.4);
+}
+
+#myBtn{
+  padding: 10%;
+  padding-left: 20%;
+  padding-right: 20%;
+  border-radius: 20px;
+  background-color: rgba(215, 45, 45, 1); 
+}
+
+#container{
+  padding-top: 20%;
+  justify-content: center;
+  margin: auto;
+  width: fit-content;
+}
+
+.popup-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 2px solid #888;
+  width: 50%;
+}
+
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  cursor: pointer;
+}
