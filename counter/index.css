@@ -7,6 +7,10 @@ body {
   border-radius: 10%;
 }
 
+.counterapp {
+  text-align: center;
+}
+
 #heading {
   color: darkblue;
   font-size: xx-large;
